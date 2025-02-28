@@ -23,7 +23,7 @@ The project employs a web-based and mobile-friendly platform designed using Pyth
 
   - **AI-Based Diagnostics:** Machine learning algorithms for preliminary medical assessments.
   - **Predictive Results:** ML algorithms utilize pattern recognition, deep learning, and predictive analytics to assist healthcare professionals in diagnosing diseases at an early stage.
-  - **Data Security Measures: ** End-to-end encryption and role-based access control.
+  - **Data Security Measures:** End-to-end encryption and role-based access control.
 
 ***Implementation and Results***
 
