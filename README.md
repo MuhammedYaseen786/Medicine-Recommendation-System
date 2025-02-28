@@ -46,3 +46,8 @@ Despite the system’s success, certain challenges were identified:
 
 The healthcare system project significantly enhances medical service delivery by providing efficient, secure, and AI-driven predictive analytics for disease prevention. Future enhancements include the integration of blockchain for enhanced security, IoT-based health monitoring, and an accessible platform for healthcare management.
 
+***Design Format***
+
+
+![Medicine-Recommedation-System](https://github.com/MuhammedYaseen786/Medicine-Recommendation-System/blob/main/med-care-clip-2.jpg)
+
