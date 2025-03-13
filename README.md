@@ -42,7 +42,7 @@ Despite the system’s success, certain challenges were identified:
   2.  Encapsulates only a few diseases and does not identify multiple diseases.
   3.  Training healthcare professionals to use digital tools effectively.
 
-***Conclusion and Futre Scope***
+***Conclusion and Future Scope***
 
 The healthcare system project significantly enhances medical service delivery by providing efficient, secure, and AI-driven predictive analytics for disease prevention. Future enhancements include the integration of blockchain for enhanced security, IoT-based health monitoring, and an accessible platform for healthcare management.
 
